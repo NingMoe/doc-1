@@ -1,0 +1,54 @@
+1.新干线平板 苹果系统开发授权
+
+https://developer.apple.com/enroll/status/
+账号：378982343@qq.com 
+密码：EM123456xgx 
+2.
+邮箱地址：http://mail.neworder.com.cn 
+邮箱账号： 
+对外共用邮箱：xgxitc@neworder.com.cn        密码：xgx2017ord 
+刘超：        liuchao@neworder.com.cn       密码：xgx2017ord 
+周文超：      zhouwenchao@neworder.com.cn   密码：xgx2017ord 
+
+3.
+SVN服务器 
+222.111.88.29:3380 
+administrator/xgx!123
+
+https://222.111.88.29/svn/Member_System_CRM/5.Develop
+
+Manager=Manager
+Tester=Tester
+zwc=zwc123
+lc=lc999
+zxh=zxh123
+lwd=lwd123
+
+4.
+http://www.neworder.com.cn
+
+windows远程登录:124.173.115.18:3380
+
+账号/密码：Administrator / 0ea5348ec8
+云主机管理:	http://www.gzidc.com/		xgxshop@163.com 	xgx1688	
+
+这周发现的问题：
+CPU占用率很高，甚至100%，因此访问服务器缓慢。
+产生单个的.net4 的文件很大，几十M每个。
+
+5.119.29.58.16:3380
+zn$2018
+zn@2018
+20171114
+
+6.赢美ERP
+http://xgx.emeisoft.com/loginvip.aspx
+xgx1574/xgx2017
+
+7.以下是管理员级权限，请妥善保管和保密，谢谢！
+
+      附件中的：商城后台账号管理
+
+      WDCP控制面板:	http://124.173.121.196:8080/		admin / xgx1994	
+
+      数据库:	http://124.173.121.196:8080/phpmyadmin/		root / carshop008    商城数据库为xgxshop

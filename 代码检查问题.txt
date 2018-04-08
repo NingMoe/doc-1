@@ -1,0 +1,7 @@
+1.ap folder 缺少 cPos.Model 模块代码
+目前解决办法：先添加cPos.Model.dll引用运行代码。
+2.xgx 密码123456
+select * from t_customer 
+select * from t_customer_user where cu_name='xgx'
+
+
